@@ -1,0 +1,5 @@
+--contingency
+--label
+'Monument_wildfire_data_SD_2'
+contingency penalty, quadratic relaxation 
+21143.4619233769, 0.0000000000

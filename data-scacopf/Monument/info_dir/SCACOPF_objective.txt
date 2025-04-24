@@ -1,0 +1,8 @@
+--base cost
+generation cost, penalty
+789049.1131750669, -51.5216091659
+--contingency
+--label
+'Monument_wildfire_data_SD_2'
+contingency penalty, quadratic relaxation 
+20708.5067896585, 0.0000000000

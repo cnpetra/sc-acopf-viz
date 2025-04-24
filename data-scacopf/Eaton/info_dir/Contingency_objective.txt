@@ -1,0 +1,5 @@
+--contingency
+--label
+'Percentile_50_SD_2'
+contingency penalty, quadratic relaxation 
+6657359.9630321683, 0.0000000000

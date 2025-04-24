@@ -1,0 +1,8 @@
+--base cost
+generation cost, penalty
+788852.2177977044, -51.5216110900
+--contingency
+--label
+'Percentile_50_SD_2'
+contingency penalty, quadratic relaxation 
+6657365.0258169062, 0.0000000000
